@@ -31,6 +31,7 @@ let package = Package(
     products: [
         .library(
             name: "AsyncOperation",
+            type: .dynamic,
             targets: ["AsyncOperation"]),
     ],
     dependencies: [
