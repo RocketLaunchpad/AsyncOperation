@@ -2,7 +2,7 @@
 //  AsyncOperation.swift
 //  AsyncOperation
 //
-//  Copyright 2020 Anodized Software, Inc.
+//  Copyright (c) 2020-2021 Rocket Insights, Inc.
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a
 //  copy of this software and associated documentation files (the "Software"),
