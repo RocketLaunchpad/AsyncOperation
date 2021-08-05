@@ -70,8 +70,4 @@ final class AsyncOperationTests: XCTestCase {
             }
         }
     }
-
-    static var allTests = [
-        ("testExample", testExample),
-    ]
 }
